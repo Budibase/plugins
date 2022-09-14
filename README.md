@@ -27,7 +27,7 @@
 * [Data sources and APIs](#data-sources-and-apis)
 * [Components](#components)
 * <a href="">How to build a Budibase plugin</a>
-* <a href="">How to contribute a Budibase plugin</a>
+* <a href="https://github.com/Budibase/plugins/blob/main/CONTRIBUTING.md">How to contribute a Budibase plugin</a>
 * <a href="https://discord.gg/XSHd3tsM">Discord channel</a>
 * <a href="https://github.com/Budibase/budibase/discussions">Community forum</a>
 * <a href="https://github.com/Budibase/plugins/issues">Issues</a>
