@@ -7,7 +7,7 @@ Current plugin entry format:
 
 | Title | Description | Type | Author | Tags |
 | --- | --- | --- | --- | --- |
-| Plugin Title (Link to plugin repo) | Description of plugin | What type of plugin is it; Datasource, API, Component type | Who is the author of the plugin (Link to author page) | `add tag to help with search` |
+| Plugin Title (Link to plugin repo) | Description of plugin | Datasource, API, Component type | Who is the author of the plugin (Link to author page) | `tag` |
 
 Example entry:
 
