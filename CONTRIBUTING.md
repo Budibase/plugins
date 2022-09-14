@@ -26,6 +26,7 @@ After you've created a branch on your fork with your changes, it's time to [make
 * Continue to follow the alphabetical ordering that is in place per section.
 * Each table column should be padded with one space on either side.
 * The Description should not exceed 100 characters.
+* Use a maximum of 3 tags.
 * Add one link per Pull Request.
 * Make sure the PR title is in the format of `Add Api-name API` *for e.g.*: `Add Stipe API`
 * Use a short descriptive commit message. *for e.g.*: ❌`Update Readme.md`  ✔ `Add Blockchain API to Cryptocurrency`
