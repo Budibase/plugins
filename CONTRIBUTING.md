@@ -1,4 +1,4 @@
-# Contributing Budibase Plugin
+# Contributing a Budibase plugin
 
 
 ## Formatting
