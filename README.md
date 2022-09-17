@@ -43,7 +43,8 @@ A curated list of Budibase data sources and APIs contributed by the community.
 Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
 | [Example database](https://github.com/Budibase/budibase/) | Pull and write data from/to Example database  | Database | [Joe Bloggs](https://github.com/joebudi) | `NoSQL` `ExampleDB` |
-| [Example API](https://github.com/Budibase/budibase/) | Pull data from Example API  | API | [Joe Bloggs](https://github.com/joebudi) | `HTTPS` |
+| [n8n](https://github.com/melohagan/n8n-workflow-custom-datasource) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/n8n-workflow-custom-datasource) | `workflow` `automation`  |
+
 <br />
 
 
