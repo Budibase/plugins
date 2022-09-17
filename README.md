@@ -24,7 +24,7 @@
 ## Useful Information
 <br />
 
-* [Data sources and APIs](#data-sources-and-apis)
+* [Datasources and APIs](#data-sources-and-apis)
 * [Components](#components)
 * <a href="">How to build a Budibase plugin</a>
 * <a href="https://github.com/Budibase/plugins/blob/main/CONTRIBUTING.md">How to contribute a Budibase plugin</a>
