@@ -37,7 +37,7 @@
 
 
 
-## Data sources and APIs
+## Datasources and APIs
 A curated list of Budibase data sources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
