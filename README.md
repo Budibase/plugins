@@ -44,6 +44,8 @@ Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
 | [Example database](https://github.com/Budibase/budibase/) | Pull and write data from/to Example database  | Database | [Joe Bloggs](https://github.com/joebudi) | `NoSQL` `ExampleDB` |
 | [n8n](https://github.com/melohagan/n8n-workflow-custom-datasource) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/n8n-workflow-custom-datasource) | `workflow` `automation`  |
+| [SurrealDB](https://github.com/melohagan/SurrealDB-custom-datasource) | Connector for SurrealDB | Relational | [Mel O'Hagan](https://github.com/melohagan/SurrealDB-custom-datasource) | `NoSQL` `SurrealQL` |
+| [Stripe subscriptions](https://github.com/melohagan/stripe-subscriptions-custom-datasource) | Manage subscriptions, subscription items and subscription schedules | API | [Mel O'Hagan](https://github.com/melohagan/stripe-subscriptions-custom-datasource) | `payments` |
 
 <br />
 
