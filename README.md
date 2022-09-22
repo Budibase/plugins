@@ -45,6 +45,7 @@ Title | Description | Type | Author | Tags |
 | [n8n](https://github.com/melohagan/n8n-workflow-custom-datasource) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/n8n-workflow-custom-datasource) | `workflow` `automation`  |
 | [SurrealDB](https://github.com/melohagan/SurrealDB-custom-datasource) | Connector for SurrealDB | Relational | [Mel O'Hagan](https://github.com/melohagan/SurrealDB-custom-datasource) | `NoSQL` `SurrealQL` |
 | [Stripe subscriptions](https://github.com/melohagan/stripe-subscriptions-custom-datasource) | Manage subscriptions, subscription items and subscription schedules | API | [Mel O'Hagan](https://github.com/melohagan/stripe-subscriptions-custom-datasource) | `payments` |
+| [Supabase](https://github.com/melohagan/Supdabase-datasource) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/Supdabase-datasource) | `postgres` |
 
 <br />
 
