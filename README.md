@@ -58,3 +58,5 @@ A curated list of Budibase components contributed by the community.
 Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
+| [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
+
