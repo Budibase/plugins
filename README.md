@@ -46,6 +46,7 @@ Title | Description | Type | Author | Tags |
 | [Stripe subscriptions](https://github.com/melohagan/budibase-datasource-stripe-subscriptions) | Manage subscriptions, subscription items and subscription schedules | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe checkout](https://github.com/melohagan/budibase-datasource-stripe-checkout) | Manage checkout sessions | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Supabase](https://github.com/melohagan/budibase-datasource-supabase) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `postgres` |
+| [Github Issues](https://github.com/doingandlearning/bb-github-plugin) | Connector for Github Issues API | Datasource | [Kevin Cunningham](https://twitter.com/dolearning) | `tag` |
 
 <br />
 
@@ -56,3 +57,5 @@ A curated list of Budibase components contributed by the community.
 Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
+| [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
+
