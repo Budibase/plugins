@@ -29,8 +29,6 @@
 * <a href="https://docs.budibase.com/docs/custom-plugin">How to build a Budibase plugin</a>
 * <a href="https://discord.gg/XSHd3tsM">Discord channel</a>
 * <a href="https://github.com/Budibase/budibase/discussions">Community forum</a>
-* <a href="https://github.com/Budibase/plugins/issues">Issues</a>
-* <a href="https://github.com/Budibase/plugins/pulls">Pull Requests</a>
 * <a href="https://github.com/Budibase/budibase/">Budibase repository</a>
 <br />
 
