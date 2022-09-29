@@ -57,4 +57,5 @@ Title | Description | Type | Author | Tags |
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
 | [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading  | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
+| [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
 
