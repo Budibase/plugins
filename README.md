@@ -56,6 +56,7 @@ Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
 | [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
+| [Comment Box](https://github.com/aptkingston/budibase-comment-box) | Quickly add comments to your data | Component | [Andrew Kingston](https://github.com/aptkingston) | `comment` `chat` |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
 | [Gradient header](https://github.com/joebudi/budibase-component-gradient-header) | The gradient header sits on top of your screens and makes them look  prettier | Header component | [Joe Johnston](https://github.com/joebudi) | `image` `gradient` `emoji` |
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Component | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
