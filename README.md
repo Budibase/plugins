@@ -59,4 +59,5 @@ Title | Description | Type | Author | Tags |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading  | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
 | [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Microphone | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
+| [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
 
