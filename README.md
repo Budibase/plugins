@@ -63,3 +63,4 @@ Title | Description | Type | Author | Tags |
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Component | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
 | [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
+| [Discord Widget](https://github.com/YuanZhang98/budibase-discord) | Discord widget that displays online users and invites | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `chat` `discord` `widget` |
