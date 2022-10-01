@@ -45,6 +45,7 @@ Title | Description | Type | Author | Tags |
 | [Stripe checkout](https://github.com/melohagan/budibase-datasource-stripe-checkout) | Manage checkout sessions | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Supabase](https://github.com/melohagan/budibase-datasource-supabase) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `postgres` |
 | [Github Issues](https://github.com/doingandlearning/bb-github-plugin) | Connector for Github Issues API | Datasource | [Kevin Cunningham](https://twitter.com/dolearning) | `tag` |
+| [Big Query]([https://github.com/marblekirby/budibase-big-query-plugin)] | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 
 <br />
 
