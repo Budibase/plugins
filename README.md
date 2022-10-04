@@ -61,6 +61,7 @@ Title | Description | Type | Author | Tags |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
 | [Discord Widget](https://github.com/YuanZhang98/budibase-discord) | Discord widget that displays online users and invites | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `chat` `discord` `widget` |
 | [Fancy Password Input](https://github.com/doggodoge/fancy-password-input) | Nice password input field with complexity progress bar | Component | [Gary Moore](https://github.com/doggodoge) | `input` `password` `forms` |
+| [Google Drive Embed](https://github.com/YuanZhang98/budibase-google-drive-embed) | Widget to display shared google drive files and folders | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `drive` `google` `widget` |
 | [Gradient header](https://github.com/joebudi/budibase-component-gradient-header) | The gradient header sits on top of your screens and makes them look  prettier | Header component | [Joe Johnston](https://github.com/joebudi) | `image` `gradient` `emoji` |
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Component | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
 | [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
@@ -68,3 +69,4 @@ Title | Description | Type | Author | Tags |
 | [QR Code](https://github.com/rosnerdev/bb-qr-code) | Display your data as a qr code in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `qr-code` `image` |
 | [Equation](https://github.com/rosnerdev/budibase-equation) | Display math equations using the LaTeX syntax in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `latex` `math` `equation` |
 | [Code Block](https://github.com/rosnerdev/bb-code-block) | Display your code in budibase no matter what language your code is written in | Component | [Yahav Rosner](https://github.com/rosnerdev) | `code` `highlightjs` `dark mode` |
+| [Spotify Embed](https://github.com/YuanZhang98/budibase-spotify-playlist) | Spotify playlist chooser with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `audio` `spotify` `music` |
