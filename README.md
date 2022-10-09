@@ -72,3 +72,4 @@ Title | Description | Type | Author | Tags |
 | [Code Block](https://github.com/rosnerdev/bb-code-block) | Display your code in budibase no matter what language your code is written in | Component | [Yahav Rosner](https://github.com/rosnerdev) | `code` `highlightjs` `dark mode` |
 | [Spotify Embed](https://github.com/YuanZhang98/budibase-spotify-playlist) | Spotify playlist chooser with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `audio` `spotify` `music` |
 | [Budibase QR Code Scanner](https://github.com/chungchunwang/Budibase-QR-Code-Scanner)| A Budibase form component that scans QR codes. | Component | [Chungchun Wang](https://github.com/chungchunwang) | `qr-code` `scanner` `form` |
+| [Youtube Embed](https://github.com/YuanZhang98/budibase-youtube-embed) | Embedded youtube video player with playlist support | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `youtube` `video` `player` |
