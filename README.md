@@ -34,7 +34,7 @@
 
 
 
-## Datasources and APIs
+## Datasources and APIs (7)
 A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
@@ -46,11 +46,10 @@ Title | Description | Type | Author | Tags |
 | [Stripe subscriptions](https://github.com/melohagan/budibase-datasource-stripe-subscriptions) | Manage subscriptions, subscription items and subscription schedules | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Supabase](https://github.com/melohagan/budibase-datasource-supabase) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `postgres` |
 | [SurrealDB](https://github.com/melohagan/budibase-datasource-surrealdb) | Connector for SurrealDB | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `NoSQL` `SurrealQL` |
-
 <br />
 
 
-## Components
+## Components (22)
 A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
