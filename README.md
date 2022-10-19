@@ -52,7 +52,7 @@ Title | Description | Type | Author | Tags |
 <br />
 
 
-## Components (22)
+## Components (23)
 A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
