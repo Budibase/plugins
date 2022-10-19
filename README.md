@@ -34,11 +34,12 @@
 
 
 
-## Datasources and APIs (10)
+## Datasources and APIs (11)
 A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
+| [Appwrite attributes+indexes](https://github.com/melohagan/budibase-datasource-appwrite-attributes-indexes) | Perform CRUD operations on Appwrite attributes and indexes | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` `Attributes` `Indexes` |
 | [Appwrite databases](https://github.com/melohagan/budibase-datasource-appwrite-databases) | Connector for managing Appwrite Databases, Collections and Documents | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` `Documents` `Collection` |
 | [Appwrite users](https://github.com/melohagan/budibase-datasource-appwrite-users) | Connector for managing Appwrite users | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
 | [Appwrite teams](https://github.com/melohagan/budibase-datasource-appwrite-teams) | Connector for managing Appwrite teams | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
