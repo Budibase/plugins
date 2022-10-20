@@ -34,7 +34,7 @@
 
 
 
-## Datasources and APIs (15)
+## Datasources and APIs (16)
 A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
@@ -46,6 +46,7 @@ Title | Description | Type | Author | Tags |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 | [Github Issues](https://github.com/doingandlearning/bb-github-plugin) | Connector for Github Issues API | Datasource | [Kevin Cunningham](https://twitter.com/dolearning) | `tag` |
 | [n8n workflows](https://github.com/melohagan/budibase-datasource-n8n-workflow) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/) | `workflow` `automation`  |
+| [Stripe balance, balance transactions and charges](https://github.com/melohagan/budibase-datasource-stripe-balance-charges) | Manage Stripe Balances, Balance Transactions and Charges | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe bank account, cash balance, card](https://github.com/melohagan/budibase-datasource-stripe-bank-account-card-cash) | Manage Stripe bank accounts, cash balance and cards | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe checkout](https://github.com/melohagan/budibase-datasource-stripe-checkout) | Manage checkout sessions | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe customers](https://github.com/melohagan/budibase-datasource-stripe-customers) | Manage Stripe customers | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
