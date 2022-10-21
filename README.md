@@ -64,6 +64,7 @@ A curated list of Budibase components contributed by the community.
 Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
 | [Accordion](https://github.com/andz-bb/budibase-component-accordion) | Simple accordion collapsible container | Component | [Andrew Thompson](https://github.com/andz-bb) | `layout` `container` `accordion` |
+| [Apple Music Embed](https://github.com/YuanZhang98/budibase-apple-music-embed) | Apple music player with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `embed` `apple` `music` |
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
 | [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
 | [Budibase QR Code Scanner](https://github.com/chungchunwang/Budibase-QR-Code-Scanner)| A Budibase form component that scans QR codes. | Component | [Chungchun Wang](https://github.com/chungchunwang) | `qr-code` `scanner` `form` |
