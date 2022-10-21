@@ -34,7 +34,7 @@
 
 
 
-## Datasources and APIs (18)
+## Datasources and APIs (19)
 A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
@@ -53,6 +53,7 @@ Title | Description | Type | Author | Tags |
 | [Stripe disputes](https://github.com/melohagan/budibase-datasource-stripe-disputes) | Manage Stripe disputes | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe events + mandates](https://github.com/melohagan/budibase-datasource-events-mandates) | Manage Stripe events and mandates | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe payment methods](https://github.com/melohagan/budibase-datasource-stripe-payment-methods) | Performs CRUD operations for Stripe payment methods | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
+| [Stripe payouts + refunds](https://github.com/melohagan/budibase-datasource-stripe-payouts-refunds) | Performs CRUD operations for Stripe payouts and refunds | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe sources](https://github.com/melohagan/budibase-datasource-stripe-sources) | Performs CRUD operations for Stripe sources | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe subscriptions](https://github.com/melohagan/budibase-datasource-stripe-subscriptions) | Manage subscriptions, subscription items and subscription schedules | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Supabase](https://github.com/melohagan/budibase-datasource-supabase) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `postgres` |
