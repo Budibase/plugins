@@ -71,6 +71,7 @@ Title | Description | Type | Author | Tags |
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
 | [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
 | [Budibase QR Code Scanner](https://github.com/chungchunwang/Budibase-QR-Code-Scanner)| A Budibase form component that scans QR codes. | Component | [Chungchun Wang](https://github.com/chungchunwang) | `qr-code` `scanner` `form` |
+| [Calendar](https://github.com/marblekirby/budibase-calendar-plugin) | Budibase Calendar Component | Component | [Daniel Loudon](https://github.com/marblekirby) | `calendar` |
 | [Code Block](https://github.com/rosnerdev/bb-code-block) | Display your code in budibase no matter what language your code is written in | Component | [Yahav Rosner](https://github.com/rosnerdev) | `code` `highlightjs` `dark mode` |
 | [Comment Box](https://github.com/aptkingston/budibase-comment-box) | Quickly add comments to your data | Component | [Andrew Kingston](https://github.com/aptkingston) | `comment` `chat` |
 | [Count Down Timer](https://github.com/JayP718/Countdown_Timer) | A timer which counts down (days/min/secs) to a certain date time. | Component | [Jay P.](https://a3datasolutions.com) | `Timer` `Form` |
