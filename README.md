@@ -44,6 +44,7 @@ Title | Description | Type | Author | Tags |
 | [Appwrite users](https://github.com/melohagan/budibase-datasource-appwrite-users) | Connector for managing Appwrite users | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
 | [Appwrite teams](https://github.com/melohagan/budibase-datasource-appwrite-teams) | Connector for managing Appwrite teams | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
+| [Bitbucket Cloud Pull Requests](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-pull-requests) | Connector for Bitbucket Cloud Pull Requests API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `PRs` |
 | [Github Issues](https://github.com/doingandlearning/bb-github-plugin) | Connector for Github Issues API | Datasource | [Kevin Cunningham](https://twitter.com/dolearning) | `tag` |
 | [n8n workflows](https://github.com/melohagan/budibase-datasource-n8n-workflow) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/) | `workflow` `automation`  |
 | [Stripe balance + charges](https://github.com/melohagan/budibase-datasource-stripe-balance-charges) | Manage Stripe Balances, Balance Transactions and Charges | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
