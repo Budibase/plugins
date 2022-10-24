@@ -34,7 +34,7 @@
 
 
 
-## Datasources and APIs (19)
+## Datasources and APIs (24)
 A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
@@ -45,7 +45,11 @@ Title | Description | Type | Author | Tags |
 | [Appwrite teams](https://github.com/melohagan/budibase-datasource-appwrite-teams) | Connector for managing Appwrite teams | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 | [Bitbucket Cloud Pull Requests](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-pull-requests) | Connector for Bitbucket Cloud Pull Requests API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `PRs` |
+| [Bitbucket Cloud Repositories](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-repositories) | Connector for Bitbucket Cloud Repositories API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `Repositories` |
 | [Github Issues](https://github.com/doingandlearning/bb-github-plugin) | Connector for Github Issues API | Datasource | [Kevin Cunningham](https://twitter.com/dolearning) | `tag` |
+| [Jira Cloud Filters](https://github.com/darrenmoura/budibase-datasource-jira-cloud-filters) | Connector for Jira Cloud Filters API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Filters` |
+| [Jira Cloud Issues](https://github.com/darrenmoura/budibase-datasource-jira-cloud-issues) | Connector for Jira Cloud Issues API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Issues` |
+| [Jira Cloud Projects](https://github.com/darrenmoura/budibase-datasource-jira-cloud-projects) | Connector for Jira Cloud Projects API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Projects` |
 | [n8n workflows](https://github.com/melohagan/budibase-datasource-n8n-workflow) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/) | `workflow` `automation`  |
 | [Stripe balance + charges](https://github.com/melohagan/budibase-datasource-stripe-balance-charges) | Manage Stripe Balances, Balance Transactions and Charges | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe bank account, cash balance, card](https://github.com/melohagan/budibase-datasource-stripe-bank-account-card-cash) | Manage Stripe bank accounts, cash balance and cards | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
@@ -62,7 +66,7 @@ Title | Description | Type | Author | Tags |
 <br />
 
 
-## Components (26)
+## Components (25+)
 A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
