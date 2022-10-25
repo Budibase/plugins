@@ -82,6 +82,7 @@ Title | Description | Type | Author | Tags |
 | [Count Down Timer](https://github.com/JayP718/Countdown_Timer) | A timer which counts down (days/min/secs) to a certain date time. | Component | [Jay P.](https://a3datasolutions.com) | `Timer` `Form` |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
 | [CSV Import](https://github.com/mjashanks/budibase-csv-import) | Drag and drop a CSV file to import data into a table | Component | [Michael Shanks](https://github.com/mjashanks) | `csv` `import` |
+| [Customizable Map](hhttps://github.com/JayP718/Customizable_Leaflet_Map) | Leaflet Map with customizable markers, layer control, multiple Tile Layers and More! | Component | [Jay P.](hhttps://github.com/JayP718) | `leaflet` `map' `customized` |
 | [Discord Widget](https://github.com/YuanZhang98/budibase-discord) | Discord widget that displays online users and invites | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `chat` `discord` `widget` |
 | [Equation](https://github.com/rosnerdev/budibase-equation) | Display math equations using the LaTeX syntax in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `latex` `math` `equation` |
 | [Fancy Password Input](https://github.com/doggodoge/fancy-password-input) | Nice password input field with complexity progress bar | Component | [Gary Moore](https://github.com/doggodoge) | `input` `password` `forms` |
@@ -98,3 +99,4 @@ Title | Description | Type | Author | Tags |
 | [Timer](https://github.com/doggodoge/bb-timer) | Timer with Event Trigger | Component | [Gary Moore](https://github.com/doggodoge) | `timer` `event` `action` |
 | [Toggle button](https://github.com/YuanZhang98/budibase-toggle) | Toggle button with customizable colors | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `toggle` `color` `input` |
 | [Youtube Embed](https://github.com/YuanZhang98/budibase-youtube-embed) | Embedded youtube video player with playlist support | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `youtube` `video` `player` |
+
