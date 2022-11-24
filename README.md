@@ -51,6 +51,7 @@ Title | Description | Type | Author | Tags |
 | [Jira Cloud Issues](https://github.com/darrenmoura/budibase-datasource-jira-cloud-issues) | Connector for Jira Cloud Issues API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Issues` |
 | [Jira Cloud Projects](https://github.com/darrenmoura/budibase-datasource-jira-cloud-projects) | Connector for Jira Cloud Projects API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Projects` |
 | [n8n workflows](https://github.com/melohagan/budibase-datasource-n8n-workflow) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/) | `workflow` `automation`  |
+| [SOAP](https://github.com/melohagan/budibase-datasource-soap) | Connect to SOAP Web Services | API | [Mel O'Hagan](https://github.com/melohagan/) | `xml` `soap` |
 | [Stripe balance + charges](https://github.com/melohagan/budibase-datasource-stripe-balance-charges) | Manage Stripe Balances, Balance Transactions and Charges | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe bank account, cash balance, card](https://github.com/melohagan/budibase-datasource-stripe-bank-account-card-cash) | Manage Stripe bank accounts, cash balance and cards | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Stripe checkout](https://github.com/melohagan/budibase-datasource-stripe-checkout) | Manage checkout sessions | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
