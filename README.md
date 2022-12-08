@@ -103,5 +103,6 @@ Title | Description | Type | Author | Tags |
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
 | [Timer](https://github.com/doggodoge/bb-timer) | Timer with Event Trigger | Component | [Gary Moore](https://github.com/doggodoge) | `timer` `event` `action` |
 | [Toggle button](https://github.com/YuanZhang98/budibase-toggle) | Toggle button with customizable colors | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `toggle` `color` `input` |
+| [Tooltip](https://github.com/andz-bb/budibase-component-tooltip) | Spectrum tooltip that shows around child component | Component | [Andrew Thompson](https://github.com/andz-bb) | `tooltip` `info` |
 | [Youtube Embed](https://github.com/YuanZhang98/budibase-youtube-embed) | Embedded youtube video player with playlist support | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `youtube` `video` `player` |
 
