@@ -81,6 +81,7 @@ Title | Description | Type | Author | Tags |
 | [Budibase File Repeater](https://github.com/chungchunwang/Budibase-File-Repeater)| A repeater for file entries generated with Budibase File Upload. | Component | [Chungchun Wang](https://github.com/chungchunwang) | `files` `DB` `form` |
 | [Calendar](https://github.com/marblekirby/budibase-calendar-plugin) | Budibase Calendar Component | Component | [Daniel Loudon](https://github.com/marblekirby) | `calendar` |
 | [Code Block](https://github.com/rosnerdev/bb-code-block) | Display your code in budibase no matter what language your code is written in | Component | [Yahav Rosner](https://github.com/rosnerdev) | `code` `highlightjs` `dark mode` |
+| [Colour Picker](https://github.com/andz-bb/budibase-component-colour-picker) | A Budibase form field component that lets you pick hex colours | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` `colour` |
 | [Comment Box](https://github.com/aptkingston/budibase-comment-box) | Quickly add comments to your data | Component | [Andrew Kingston](https://github.com/aptkingston) | `comment` `chat` |
 | [Count Down Timer](https://github.com/JayP718/Countdown_Timer) | A timer which counts down (days/min/secs) to a certain date time. | Component | [Jay P.](https://a3datasolutions.com) | `Timer` `Form` |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
