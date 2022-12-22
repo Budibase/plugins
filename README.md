@@ -103,6 +103,7 @@ Title | Description | Type | Author | Tags |
 | [Spotify Embed](https://github.com/YuanZhang98/budibase-spotify-playlist) | Spotify playlist chooser with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `audio` `spotify` `music` |
 | [Spotify Embeder](https://github.com/NoelJacob/bb-spotify-embed) | Spotify Embed plugin provides an embeddable view of a track, artist, album, user, playlist, podcast, or episode for use within your web project. | Component | [Noel Jacob](https://github.com/NoelJacob/) | `audio` `spotify` `music` `embed` |
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
+| [Super Tabs Component](https://github.com/poirazis/bb-component-SuperTabs) | Render a Tab for every child component | Component| [Michael Poirazi](https://github.com/poirazis) | `container` `tabs` |
 | [Tab component](https://github.com/poirazis/bb-plugin-TabContainer) | Add tabs containers to your screens! | Component | [Michael Poirazi](https://github.com/poirazis) | `container` `tab` |
 | [Timer](https://github.com/doggodoge/bb-timer) | Timer with Event Trigger | Component | [Gary Moore](https://github.com/doggodoge) | `timer` `event` `action` |
 | [Toggle button](https://github.com/YuanZhang98/budibase-toggle) | Toggle button with customizable colors | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `toggle` `color` `input` |
