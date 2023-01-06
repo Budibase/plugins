@@ -105,7 +105,7 @@ Title | Description | Type | Author | Tags |
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
 | [Super Gauge](https://github.com/poirazis/bb-component-SuperGauge) | TrakFill Gauge | Component| [Michael Poirazi](https://github.com/poirazis) | `data visualisation` `gauge` `trackfill` |
 | [Super Odometer](https://github.com/poirazis/bb-component-SuperOdometer) | Odometer Gauge | Component| [Michael Poirazi](https://github.com/poirazis) | `data visualisation` `odometer` |
-| [Super Side Navvigation](https://github.com/poirazis/bb-component-SuperSideNavigation) | Side NAvigation / Item List | Component| [Michael Poirazi](https://github.com/poirazis) | `items list` `navigation` |
+| [Super Side Navigation](https://github.com/poirazis/bb-component-SuperSideNavigation) | Side Navigation / Item List | Component| [Michael Poirazi](https://github.com/poirazis) | `items list` `navigation` |
 | [Super Slider Input](https://github.com/poirazis/bb-component-SuperSliderField) | Slider Input Field | Component| [Michael Poirazi](https://github.com/poirazis) | `form` `number` `slider` |
 | [Super Tabs](https://github.com/poirazis/bb-component-SuperTabs) | Render a Tab for every child component | Component| [Michael Poirazi](https://github.com/poirazis) | `container` `tabs` |
 | [Super Treeview](https://github.com/poirazis/bb-component-SuperTreeView) | Display Master / Detail Data with Treeview | Component| [Michael Poirazi](https://github.com/poirazis) | `treeview` |
