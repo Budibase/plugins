@@ -100,6 +100,7 @@ Title | Description | Type | Author | Tags |
 | [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
 | [PDF Viewer](https://github.com/YuanZhang98/budibase-pdf-viewer) | Embedded PDF Viewer with DataSource | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `pdf` `viewer` `embed` |
 | [QR Code](https://github.com/rosnerdev/bb-qr-code) | Display your data as a qr code in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `qr-code` `image` |
+| [Signature](https://github.com/FlaminWrap/budibase-signature-component) | A plugin that allows the creation of e-signatures | Component | [Lewis McRobbie](https://github.com/FlaminWrap) | `signature` `image` |
 | [Spotify Embed](https://github.com/YuanZhang98/budibase-spotify-playlist) | Spotify playlist chooser with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `audio` `spotify` `music` |
 | [Spotify Embeder](https://github.com/NoelJacob/bb-spotify-embed) | Spotify Embed plugin provides an embeddable view of a track, artist, album, user, playlist, podcast, or episode for use within your web project. | Component | [Noel Jacob](https://github.com/NoelJacob/) | `audio` `spotify` `music` `embed` |
 | [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
