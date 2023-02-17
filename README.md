@@ -91,9 +91,7 @@ Title | Description | Type | Author | Tags |
 | [Discord Widget](https://github.com/YuanZhang98/budibase-discord) | Discord widget that displays online users and invites | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `chat` `discord` `widget` |
 | [Equation](https://github.com/rosnerdev/budibase-equation) | Display math equations using the LaTeX syntax in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `latex` `math` `equation` |
 | [Fancy Password Input](https://github.com/doggodoge/fancy-password-input) | Nice password input field with complexity progress bar | Component | [Gary Moore](https://github.com/doggodoge) | `input` `password` `forms` |
-
 | [Font Awesome Icon](https://github.com/mp-strachan/bb-fontawesome) | A Budibase component plugin to display any icon in the Font Awesome library | Component | [Matt Strachan](https://github.com/mp-strachan) | `icon` `ui` `font awesome` |
-
 | [Google Drive Embed](https://github.com/YuanZhang98/budibase-google-drive-embed) | Widget to display shared google drive files and folders | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `drive` `google` `widget` |
 | [Gradient header](https://github.com/joebudi/budibase-component-gradient-header) | The gradient header sits on top of your screens and makes them look  prettier | Header component | [Joe Johnston](https://github.com/joebudi) | `image` `gradient` `emoji` |
 | [Icon Stats Card](https://github.com/FCMHUB/budibase-icon-stat-card) | A multipurpose stats card | Component | [Fabrício Mereniuk](https://github.com/FCMHUB) | `layout` `card` |
