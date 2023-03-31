@@ -74,6 +74,7 @@ A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
+| [FullCalendar](https://github.com/pixelinfinito/budibase-fullcalendar) | It's a component to implement fullcalendar in your budibase. | Component | [Pixel Infinito](https://github.com/pixelinfinito) |  `Calendar`  `Calendar events`
 | [Accordion](https://github.com/andz-bb/budibase-component-accordion) | Simple accordion collapsible container | Component | [Andrew Thompson](https://github.com/andz-bb) | `layout` `container` `accordion` |
 | [Apple Music Embed](https://github.com/YuanZhang98/budibase-apple-music-embed) | Apple music player with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `embed` `apple` `music` |
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
