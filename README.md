@@ -113,7 +113,8 @@ Title | Description | Type | Author | Tags |
 | [Super Odometer](https://github.com/poirazis/bb-component-SuperOdometer) | Odometer Gauge | Component| [Michael Poirazi](https://github.com/poirazis) | `data visualisation` `odometer` |
 | [Super Side Navigation](https://github.com/poirazis/bb-component-SuperSideNavigation) | Side Navigation / Item List | Component| [Michael Poirazi](https://github.com/poirazis) | `items list` `navigation` |
 | [Super Slider Input](https://github.com/poirazis/bb-component-SuperSliderField) | Slider Input Field | Component| [Michael Poirazi](https://github.com/poirazis) | `form` `number` `slider` |
-| [Super Tabs](https://github.com/poirazis/bb-component-SuperTabs) | Render a Tab for every child component | Component| [Michael Poirazi](https://github.com/poirazis) | `container` `tabs` |
+| [Super Table](https://github.com/poirazis/bb-component-SuperTable) | An advanced table component with styleable headers, rows, footers and dividers  | Component | [Michael Poirazi](https://github.com/poirazis) | `table` `conditional ui` |
+| [Super Tabs](https://github.com/poirazis/bb-component-SuperTabs) | Render a Tab for every child component | Component | [Michael Poirazi](https://github.com/poirazis) | `container` `tabs` |
 | [Super Treeview](https://github.com/poirazis/bb-component-SuperTreeView) | Display Master / Detail Data with Treeview | Component| [Michael Poirazi](https://github.com/poirazis) | `treeview` |
 | [Tab component](https://github.com/poirazis/bb-plugin-TabContainer) | Add tabs containers to your screens! | Component | [Michael Poirazi](https://github.com/poirazis) | `container` `tab` |
 | [Timer](https://github.com/doggodoge/bb-timer) | Timer with Event Trigger | Component | [Gary Moore](https://github.com/doggodoge) | `timer` `event` `action` |
