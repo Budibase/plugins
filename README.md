@@ -121,3 +121,4 @@ Title | Description | Type | Author | Tags |
 | [Tooltip](https://github.com/andz-bb/budibase-component-tooltip) | Spectrum tooltip that shows around child component | Component | [Andrew Thompson](https://github.com/andz-bb) | `tooltip` `info` |
 | [Youtube Embed](https://github.com/YuanZhang98/budibase-youtube-embed) | Embedded youtube video player with playlist support | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `youtube` `video` `player` |
 | [Icon Button With Tooptip](https://github.com/sj-distributor/budibas-component-icon-button-with-tooltip) | This is an icon component with tooltips | Component | [Simoon-F](https://github.com/Simoon-F) | `icon` `icon-button` `tooltip` |
+| [Dropdown List](https://github.com/sj-distributor/budibase-component-dropdown-list) | This is a dropdown menu component | Component | [goodjun](https://github.com/goodjun) | `dropdown-list` `button` |
