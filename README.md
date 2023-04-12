@@ -34,7 +34,7 @@
 
 
 
-## Datasources and APIs (25+)
+## Datasources and APIs
 A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
@@ -69,7 +69,7 @@ Title | Description | Type | Author | Tags |
 <br />
 
 
-## Components (25+)
+## Components
 A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
@@ -102,6 +102,7 @@ Title | Description | Type | Author | Tags |
 | [Interval](https://github.com/MartinPicc/budibase-interval-plugin) | Set time interval to run actions | Component | [Martin Piccolin](https://github.com/MartinPicc) | `event` `action` `interval` |
 | [Kasper date-picker with Locale setting!](https://github.com/melohagan/budibase-component-kasper-date-picker) | Date picker form input that allows you to set the locale | Form Input | [Mel O'Hagan](https://github.com/melohagan/) | `form` `input` `date` `picker` | 
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Component | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
+| [Number Counter Input](https://github.com/melohagan/budibase-component-number-counter-input) | Number field with incremental and customizable stepper | Form Input | [Mel O'Hagan](https://github.com/melohagan) | `number` `input` |
 | [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
 | [PDF Viewer](https://github.com/YuanZhang98/budibase-pdf-viewer) | Embedded PDF Viewer with DataSource | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `pdf` `viewer` `embed` |
 | [QR Code](https://github.com/rosnerdev/bb-qr-code) | Display your data as a qr code in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `qr-code` `image` |
