@@ -39,10 +39,7 @@ A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
-| [Appwrite attributes + indexes](https://github.com/melohagan/budibase-datasource-appwrite-attributes-indexes) | Perform CRUD operations on Appwrite attributes and indexes | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` `Attributes` `Indexes` |
-| [Appwrite databases](https://github.com/melohagan/budibase-datasource-appwrite-databases) | Connector for managing Appwrite Databases, Collections and Documents | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` `Documents` `Collection` |
-| [Appwrite users](https://github.com/melohagan/budibase-datasource-appwrite-users) | Connector for managing Appwrite users | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
-| [Appwrite teams](https://github.com/melohagan/budibase-datasource-appwrite-teams) | Connector for managing Appwrite teams | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
+| [Appwrite](https://github.com/melohagan/budibase-datasource-appwrite) | A collection of Appwrite custom datasources | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
 | [Azure Storage Tables](https://github.com/sherweb/budibase-azurestoragetable) | Connector for Azure Storage Tables | Datasource | [Sherweb](https://github.com/sherweb) | `Azure` `AST` `Storage Tables` |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 | [Bitbucket Cloud Pull Requests](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-pull-requests) | Connector for Bitbucket Cloud Pull Requests API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `PRs` |
