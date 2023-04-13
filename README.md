@@ -54,16 +54,7 @@ Title | Description | Type | Author | Tags |
 | [n8n workflows](https://github.com/melohagan/budibase-datasource-n8n-workflow) | CRUD operations for n8n workflows  | API | [Mel O'Hagan](https://github.com/melohagan/) | `workflow` `automation`  |
 | [OneLogin - Users](https://github.com/mp-strachan/bb-ds-onelogin-user) | Interface with the OneLogin User API | Datasource | [Matt Strachan](https://github.com/mp-strachan) | `api` `users` `directory` `onelogin`  |
 | [SOAP](https://github.com/melohagan/budibase-datasource-soap) | Connect to SOAP Web Services | API | [Mel O'Hagan](https://github.com/melohagan/) | `xml` `soap` |
-| [Stripe balance + charges](https://github.com/melohagan/budibase-datasource-stripe-balance-charges) | Manage Stripe Balances, Balance Transactions and Charges | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe bank account, cash balance, card](https://github.com/melohagan/budibase-datasource-stripe-bank-account-card-cash) | Manage Stripe bank accounts, cash balance and cards | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe checkout](https://github.com/melohagan/budibase-datasource-stripe-checkout) | Manage checkout sessions | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe customers](https://github.com/melohagan/budibase-datasource-stripe-customers) | Manage Stripe customers | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe disputes](https://github.com/melohagan/budibase-datasource-stripe-disputes) | Manage Stripe disputes | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe events + mandates](https://github.com/melohagan/budibase-datasource-events-mandates) | Manage Stripe events and mandates | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe payment methods](https://github.com/melohagan/budibase-datasource-stripe-payment-methods) | Performs CRUD operations for Stripe payment methods | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe payouts + refunds](https://github.com/melohagan/budibase-datasource-stripe-payouts-refunds) | Performs CRUD operations for Stripe payouts and refunds | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe sources](https://github.com/melohagan/budibase-datasource-stripe-sources) | Performs CRUD operations for Stripe sources | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
-| [Stripe subscriptions](https://github.com/melohagan/budibase-datasource-stripe-subscriptions) | Manage subscriptions, subscription items and subscription schedules | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
+| [Stripe](https://github.com/melohagan/budibase-datasource-stripe) | A collection of datasources for different Stripe domains | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Supabase](https://github.com/melohagan/budibase-datasource-supabase) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `postgres` |
 | [SurrealDB](https://github.com/melohagan/budibase-datasource-surrealdb) | Connector for SurrealDB | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `NoSQL` `SurrealQL` |
 <br />
