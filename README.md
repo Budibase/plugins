@@ -62,7 +62,6 @@ A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
-| [FullCalendar](https://github.com/pixelinfinito/budibase-fullcalendar) | It's a component to implement fullcalendar in your budibase. | Component | [Pixel Infinito](https://github.com/pixelinfinito) |  `Calendar`  `Calendar events`
 | [Accordion](https://github.com/andz-bb/budibase-component-accordion) | Simple accordion collapsible container | Component | [Andrew Thompson](https://github.com/andz-bb) | `layout` `container` `accordion` |
 | [Apple Music Embed](https://github.com/YuanZhang98/budibase-apple-music-embed) | Apple music player with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `embed` `apple` `music` |
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
@@ -80,14 +79,18 @@ Title | Description | Type | Author | Tags |
 | [CSV Import](https://github.com/mjashanks/budibase-csv-import) | Drag and drop a CSV file to import data into a table | Component | [Michael Shanks](https://github.com/mjashanks) | `csv` `import` |
 | [Customizable Map](https://github.com/JayP718/Customizable_Leaflet_Map) | Leaflet Map with customizable markers, layer control, multiple Tile Layers and More! | Component | [Jay P.](https://github.com/JayP718) | `leaflet` `map' `customized` |
 | [Discord Widget](https://github.com/YuanZhang98/budibase-discord) | Discord widget that displays online users and invites | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `chat` `discord` `widget` |
+| [Dropdown List](https://github.com/sj-distributor/budibase-component-dropdown-list) | This is a dropdown menu component | Component | [goodjun](https://github.com/goodjun) | `dropdown-list` `button` |
 | [Equation](https://github.com/rosnerdev/budibase-equation) | Display math equations using the LaTeX syntax in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `latex` `math` `equation` |
 | [Fancy Password Input](https://github.com/doggodoge/fancy-password-input) | Nice password input field with complexity progress bar | Component | [Gary Moore](https://github.com/doggodoge) | `input` `password` `forms` |
 | [Font Awesome Icon](https://github.com/mp-strachan/bb-fontawesome) | A Budibase component plugin to display any icon in the Font Awesome library | Component | [Matt Strachan](https://github.com/mp-strachan) | `icon` `ui` `font awesome` |
+| [FullCalendar](https://github.com/pixelinfinito/budibase-fullcalendar) | It's a component to implement fullcalendar in your budibase. | Component | [Pixel Infinito](https://github.com/pixelinfinito) |  `Calendar`  `Calendar events`
 | [Google Drive Embed](https://github.com/YuanZhang98/budibase-google-drive-embed) | Widget to display shared google drive files and folders | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `drive` `google` `widget` |
 | [Gradient header](https://github.com/joebudi/budibase-component-gradient-header) | The gradient header sits on top of your screens and makes them look  prettier | Header component | [Joe Johnston](https://github.com/joebudi) | `image` `gradient` `emoji` |
+| [Icon Button With Tooptip](https://github.com/sj-distributor/budibas-component-icon-button-with-tooltip) | This is an icon component with tooltips | Component | [Simoon-F](https://github.com/Simoon-F) | `icon` `icon-button` `tooltip` |
 | [Icon Stats Card](https://github.com/FCMHUB/budibase-icon-stat-card) | A multipurpose stats card | Component | [Fabrício Mereniuk](https://github.com/FCMHUB) | `layout` `card` |
 | [Input Mask](https://github.com/melohagan/budibase-component-nikita-input-mask) | A custom text field plugin for Budibase that allows you to provide an input mask | Form Input | [Nikita Mostovoy](https://github.com/xnimorz) | `form` `input` `mask` `text` |
 | [Interval](https://github.com/MartinPicc/budibase-interval-plugin) | Set time interval to run actions | Component | [Martin Piccolin](https://github.com/MartinPicc) | `event` `action` `interval` |
+| [Kanban Board](https://github.com/ConorWebb96/bb-kanban-draggable) | A Budibase component which creates a kanban board for moving cards between statues quickly. | Component | [Conor Webb](https://github.com/ConorWebb96) | `board` `pipeline` `container` |
 | [Kasper date-picker with Locale setting!](https://github.com/melohagan/budibase-component-kasper-date-picker) | Date picker form input that allows you to set the locale | Form Input | [Mel O'Hagan](https://github.com/melohagan/) | `form` `input` `date` `picker` | 
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Component | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
 | [Number Counter Input](https://github.com/melohagan/budibase-component-number-counter-input) | Number field with incremental and customizable stepper | Form Input | [Mel O'Hagan](https://github.com/melohagan) | `number` `input` |
@@ -110,6 +113,5 @@ Title | Description | Type | Author | Tags |
 | [Toggle button](https://github.com/YuanZhang98/budibase-toggle) | Toggle button with customizable colors | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `toggle` `color` `input` |
 | [Tooltip](https://github.com/andz-bb/budibase-component-tooltip) | Spectrum tooltip that shows around child component | Component | [Andrew Thompson](https://github.com/andz-bb) | `tooltip` `info` |
 | [Youtube Embed](https://github.com/YuanZhang98/budibase-youtube-embed) | Embedded youtube video player with playlist support | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `youtube` `video` `player` |
-| [Icon Button With Tooptip](https://github.com/sj-distributor/budibas-component-icon-button-with-tooltip) | This is an icon component with tooltips | Component | [Simoon-F](https://github.com/Simoon-F) | `icon` `icon-button` `tooltip` |
-| [Dropdown List](https://github.com/sj-distributor/budibase-component-dropdown-list) | This is a dropdown menu component | Component | [goodjun](https://github.com/goodjun) | `dropdown-list` `button` |
-| [Kanban Board](https://github.com/ConorWebb96/bb-kanban-draggable) | A Budibase component which creates a kanban board for moving cards between statues quickly. | Component type | [Conor Webb](https://github.com/ConorWebb96) | `board`, `pipeline`, `container` |
+
+
