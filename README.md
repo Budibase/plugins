@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.budibase.com">
-    <img alt="Budibase" src="https://d33wubrfki0l68.cloudfront.net/aac32159d7207b5085e74a7ef67afbb7027786c5/2b1fd/img/logo/bb-emblem.svg" width="60" />
+    <img alt="Budibase" src="https://res.cloudinary.com/daog6scxm/image/upload/v1699284176/Branding/Assets/Symbol/RGB/Full%20Colour/bb-symbol-trans_v60zdz.svg" width="60" />
   </a>
 </p>
 <div align="center">
