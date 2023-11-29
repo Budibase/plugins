@@ -99,6 +99,7 @@ Title | Description | Type | Author | Tags |
 | [Microphone](https://github.com/shogunpurple/budibase-component-microphone) | Microphone voice recorder with download support | Component | [Martin McKeaveney](https://github.com/shogunpurple) | `files` `audio` |
 | [Number Counter Input](https://github.com/melohagan/budibase-component-number-counter-input) | Number field with incremental and customizable stepper | Form Input | [Mel O'Hagan](https://github.com/melohagan) | `number` `input` |
 | [Number Spinner](https://github.com/melohagan/budibase-component-number-spinner) | Number field that can be set with the mouse drag | Form Input | [Hartmut Bohnacker](https://github.com/bohnacker) | `number` `spinner` |
+| [orgChart](https://github.com/jtab87/jtaorgchart) | Organisational chart from database | Component | [JTA](https://github.com/jtab87/) | `chart` `orgchart` |
 | [PDF Viewer](https://github.com/YuanZhang98/budibase-pdf-viewer) | Embedded PDF Viewer with DataSource | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `pdf` `viewer` `embed` |
 | [QR Code](https://github.com/rosnerdev/bb-qr-code) | Display your data as a qr code in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `qr-code` `image` |
 | [Signature](https://github.com/FlaminWrap/budibase-signature-component) | A plugin that allows the creation of e-signatures | Component | [Lewis McRobbie](https://github.com/FlaminWrap) | `signature` `image` |
