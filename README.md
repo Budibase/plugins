@@ -119,4 +119,9 @@ Title | Description | Type | Author | Tags |
 | [Tooltip](https://github.com/andz-bb/budibase-component-tooltip) | Spectrum tooltip that shows around child component | Component | [Andrew Thompson](https://github.com/andz-bb) | `tooltip` `info` |
 | [Youtube Embed](https://github.com/YuanZhang98/budibase-youtube-embed) | Embedded youtube video player with playlist support | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `youtube` `video` `player` |
 
+## Automations
+A curated list of Budibase automations contributed by the community.
 
+Title | Description | Type | Author | Tags |
+|---|---|---|---|---|
+| [CSV Export](https://github.com/CSLTech/budibase-csv-export) | Export data as CSV to S3 (or S3 an compatible service) | Automation | [Michaël St-Georges](https://github.com/CSLTech) | `csv` `export` `s3` |
