@@ -80,6 +80,7 @@ Title | Description | Type | Author | Tags |
 | [CSV Import](https://github.com/mjashanks/budibase-csv-import) | Drag and drop a CSV file to import data into a table | Component | [Michael Shanks](https://github.com/mjashanks) | `csv` `import` |
 | [Customizable Map](https://github.com/JayP718/Customizable_Leaflet_Map) | Leaflet Map with customizable markers, layer control, multiple Tile Layers and More! | Component | [Jay P.](https://github.com/JayP718) | `leaflet` `map' `customized` |
 | [Discord Widget](https://github.com/YuanZhang98/budibase-discord) | Discord widget that displays online users and invites | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `chat` `discord` `widget` |
+| [Draggable List](https://github.com/R2bEEaton/bb-list-draggable) | A list with drag-and-drop re-ordering | Component | [Ryan Eaton](https://github.com/R2bEEaton) | `container` `drag` |
 | [Dropdown List](https://github.com/sj-distributor/budibase-component-dropdown-list) | This is a dropdown menu component | Component | [goodjun](https://github.com/goodjun) | `dropdown-list` `button` |
 | [Equation](https://github.com/rosnerdev/budibase-equation) | Display math equations using the LaTeX syntax in budibase | Component | [Yahav Rosner](https://github.com/rosnerdev) | `latex` `math` `equation` |
 | [Fancy Password Input](https://github.com/doggodoge/fancy-password-input) | Nice password input field with complexity progress bar | Component | [Gary Moore](https://github.com/doggodoge) | `input` `password` `forms` |
