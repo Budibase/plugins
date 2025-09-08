@@ -61,7 +61,7 @@ A curated list of Budibase components contributed by the community.
 
 Title | Description | Type | Author | Tags |
 |---|---|---|---|---|
-| [Accordion](https://github.com/andz-bb/budibase-component-accordion) | Simple accordion collapsible container | Component | [Andrew Thompson](https://github.com/andz-bb) | `layout` `container` `accordion` |
+| [Accordion](https://docs.budibase.com/docs/accordion) | Simple accordion collapsible container | Component | [Andrew Thompson](https://github.com/andz-bb) | `layout` `container` `accordion` |
 | [Apple Music Embed](https://github.com/YuanZhang98/budibase-apple-music-embed) | Apple music player with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `embed` `apple` `music` |
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
 | [Auto-Complete Field](https://github.com/CSLTech/budibase-autocomplete) | Dynamic Auto-Complete Field | Component | [Michaël St-Georges](https://github.com/CSLTech) | `form` `input` `autocomplete` |
@@ -107,7 +107,7 @@ Title | Description | Type | Author | Tags |
 | [Signature](https://github.com/FlaminWrap/budibase-signature-component) | A plugin that allows the creation of e-signatures | Component | [Lewis McRobbie](https://github.com/FlaminWrap) | `signature` `image` |
 | [Spotify Embed](https://github.com/YuanZhang98/budibase-spotify-playlist) | Spotify playlist chooser with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `audio` `spotify` `music` |
 | [Spotify Embeder](https://github.com/NoelJacob/bb-spotify-embed) | Spotify Embed plugin provides an embeddable view of a track, artist, album, user, playlist, podcast, or episode for use within your web project. | Component | [Noel Jacob](https://github.com/NoelJacob/) | `audio` `spotify` `music` `embed` |
-| [Star Rating](https://github.com/andz-bb/budibase-component-star-rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
+| [Star Rating](https://docs.budibase.com/docs/rating) | Number input with star/heart UI | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` |
 | [Super Gauge](https://github.com/poirazis/bb-component-SuperGauge) | TrakFill Gauge | Component| [Michael Poirazi](https://github.com/poirazis) | `data visualisation` `gauge` `trackfill` |
 | [Super Odometer](https://github.com/poirazis/bb-component-SuperOdometer) | Odometer Gauge | Component| [Michael Poirazi](https://github.com/poirazis) | `data visualisation` `odometer` |
 | [Super Side Navigation](https://github.com/poirazis/bb-component-SuperSideNavigation) | Side Navigation / Item List | Component| [Michael Poirazi](https://github.com/poirazis) | `items list` `navigation` |
