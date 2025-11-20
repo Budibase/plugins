@@ -48,6 +48,7 @@ Title | Description | Type | Author | Tags |
 | [Jira Cloud Filters](https://github.com/darrenmoura/budibase-datasource-jira-cloud-filters) | Connector for Jira Cloud Filters API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Filters` |
 | [Jira Cloud Issues](https://github.com/darrenmoura/budibase-datasource-jira-cloud-issues) | Connector for Jira Cloud Issues API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Issues` |
 | [Jira Cloud Projects](https://github.com/darrenmoura/budibase-datasource-jira-cloud-projects) | Connector for Jira Cloud Projects API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Projects` |
+| [NocoDB](https://github.com/nocodb/budibase-datasource-nocodb-table) | Connect to NocoDB tables | Datasource | [Fendy Heryanto](https://github.com/fendy3002) | `Tables` `NocoDB` `Spreadsheet`  |
 | [OneLogin - Users](https://github.com/mp-strachan/bb-ds-onelogin-user) | Interface with the OneLogin User API | Datasource | [Matt Strachan](https://github.com/mp-strachan) | `api` `users` `directory` `onelogin`  |
 | [SOAP](https://github.com/melohagan/budibase-datasource-soap) | Connect to SOAP Web Services | API | [Mel O'Hagan](https://github.com/melohagan/) | `xml` `soap` |
 | [Stripe](https://github.com/melohagan/budibase-datasource-stripe) | A collection of datasources for different Stripe domains | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
