@@ -19,6 +19,12 @@
 
 ---
 
+<h3>Plugin migration (Budibase Svelte 3 → Svelte 5)</h3>
+
+<p>Some v3 plugins may run into compatibility issues when used with v5. The migration guide can be found <a href="https://github.com/Budibase/budibase/discussions/17316#discussion-9108649">here</a>. </p>
+
+---
+
 <br />
 
 ## Useful Information
