@@ -56,6 +56,7 @@ Title | Description | Type | Author | Tags |
 | [Jira Cloud Projects](https://github.com/darrenmoura/budibase-datasource-jira-cloud-projects) | Connector for Jira Cloud Projects API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Jira` `Atlassian` `Projects` |
 | [OneLogin - Users](https://github.com/mp-strachan/bb-ds-onelogin-user) | Interface with the OneLogin User API | Datasource | [Matt Strachan](https://github.com/mp-strachan) | `api` `users` `directory` `onelogin`  |
 | [SOAP](https://github.com/melohagan/budibase-datasource-soap) | Connect to SOAP Web Services | API | [Mel O'Hagan](https://github.com/melohagan/) | `xml` `soap` |
+| [SeaTable](https://github.com/seatable/budibase-connector) | Connector for SeaTable collaborative database platform | Datasource | [SeaTable](https://github.com/seatable) | `database` `spreadsheet` `API` |
 | [Stripe](https://github.com/melohagan/budibase-datasource-stripe) | A collection of datasources for different Stripe domains | API | [Mel O'Hagan](https://github.com/melohagan/) | `payments` |
 | [Supabase](https://github.com/melohagan/budibase-datasource-supabase) | Connector for Supabase | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `postgres` |
 | [SurrealDB](https://github.com/melohagan/budibase-datasource-surrealdb) | Connector for SurrealDB | Relational | [Mel O'Hagan](https://github.com/melohagan/) | `NoSQL` `SurrealQL` |
