@@ -30,7 +30,7 @@
 ## Useful Information
 <br />
 
-* [Datasources and APIs](#data-sources-and-apis)
+* [Datasources and APIs](#datasources-and-apis)
 * [Components](#components)
 * <a href="https://docs.budibase.com/docs/custom-plugin">How to build a Budibase plugin</a>
 * <a href="https://discord.gg/XSHd3tsM">Discord channel</a>
@@ -46,7 +46,6 @@ A curated list of Budibase datasources and APIs contributed by the community.
 Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
 | [Appwrite](https://github.com/melohagan/budibase-datasource-appwrite) | A collection of Appwrite custom datasources | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
-| [Azure Storage Tables](https://github.com/sherweb/budibase-azurestoragetable) | Connector for Azure Storage Tables | Datasource | [Sherweb](https://github.com/sherweb) | `Azure` `AST` `Storage Tables` |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 | [Bitbucket Cloud Pull Requests](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-pull-requests) | Connector for Bitbucket Cloud Pull Requests API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `PRs` |
 | [Bitbucket Cloud Repositories](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-repositories) | Connector for Bitbucket Cloud Repositories API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `Repositories` |
@@ -81,7 +80,7 @@ Title | Description | Type | Author | Tags |
 | [Code Block](https://github.com/rosnerdev/bb-code-block) | Display your code in budibase no matter what language your code is written in | Component | [Yahav Rosner](https://github.com/rosnerdev) | `code` `highlightjs` `dark mode` |
 | [Colour Picker](https://github.com/andz-bb/budibase-component-colour-picker) | A Budibase form field component that lets you pick hex colours | Form Input | [Andrew Thompson](https://github.com/andz-bb) | `form` `input` `colour` |
 | [Comment Box](https://github.com/aptkingston/budibase-comment-box) | Quickly add comments to your data | Component | [Andrew Kingston](https://github.com/aptkingston) | `comment` `chat` |
-| [Count Down Timer](https://github.com/JayP718/Countdown_Timer) | A timer which counts down (days/min/secs) to a certain date time. | Component | [Jay P.](https://a3datasolutions.com) | `Timer` `Form` |
+| [Count Down Timer](https://github.com/JayP718/Countdown_Timer) | A timer which counts down (days/min/secs) to a certain date time. | Component | [Jay P.](https://github.com/JayP718) | `Timer` `Form` |
 | [Countup](https://github.com/melohagan/budibase-component-countup) | Heading that counts up from an initial number to a target number | Heading | [Pouya Saadeghi](https://github.com/saadeghi) | `heading` `animated` |
 | [CSV Import](https://github.com/mjashanks/budibase-csv-import) | Drag and drop a CSV file to import data into a table | Component | [Michael Shanks](https://github.com/mjashanks) | `csv` `import` |
 | [Currency Input](https://github.com/MarceloArraes/budibase-currency-input) | A dynamic formatted currency input that saves as a number | Component | [Marcelo Arraes](https://github.com/MarceloArraes) | `input` `currency` `form` |
