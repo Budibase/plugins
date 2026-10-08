@@ -46,6 +46,7 @@ A curated list of Budibase datasources and APIs contributed by the community.
 Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
 | [Appwrite](https://github.com/melohagan/budibase-datasource-appwrite) | A collection of Appwrite custom datasources | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
+| [Asyntai](https://github.com/asyntai/budibase-datasource-asyntai) | Ask your Asyntai AI agent, read website chat leads and transcripts, and add knowledge | Datasource | [Asyntai](https://github.com/asyntai) | `AI` `chatbot` `leads` |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 | [Bitbucket Cloud Pull Requests](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-pull-requests) | Connector for Bitbucket Cloud Pull Requests API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `PRs` |
 | [Bitbucket Cloud Repositories](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-repositories) | Connector for Bitbucket Cloud Repositories API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `Repositories` |
@@ -71,6 +72,7 @@ Title | Description | Type | Author | Tags |
 | [Accordion](https://docs.budibase.com/docs/accordion) | **Deprecated:** [now natively available in Budibase](https://docs.budibase.com/docs/accordion) | Component | [Andrew Thompson](https://github.com/andz-bb) | `layout` `container` `accordion` |
 | [Apple Music Embed](https://github.com/YuanZhang98/budibase-apple-music-embed) | Apple music player with embedded UI | Component | [Yuan Zhang](https://github.com/YuanZhang98) | `embed` `apple` `music` |
 | [Archery Score Tracker](https://github.com/Rory-Powell/budibase-archery-component-plugin) | Track archery scores with an interactive target canvas | Component | [Rory Powell](https://github.com/Rory-Powell) | `archery` `canvas` |
+| [Asyntai AI Chat](https://github.com/asyntai/budibase-component-asyntai-chat) | An AI agent that answers from your own knowledge, as a chat panel or a chat button | Component | [Asyntai](https://github.com/asyntai) | `AI` `chat` `assistant` |
 | [Auto-Complete Field](https://github.com/CSLTech/budibase-autocomplete) | Dynamic Auto-Complete Field | Component | [Michaël St-Georges](https://github.com/CSLTech) | `form` `input` `autocomplete` |
 | [AgGrid](https://github.com/valarmathiSelvam/bb-aggrid) | AgGrid table component |  Component  | [valarmathi](https://github.com/valarmathiSelvam) | `table` `ag-grid` `download` |
 | [Avatar](https://github.com/doingandlearning/bb-avatar-component-plugin) | A content area for a profile picture and details | Component  | [Kevin Cunningham](https://twitter.com/dolearning) | `display` `profile` `image` |
