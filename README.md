@@ -45,6 +45,7 @@ A curated list of Budibase datasources and APIs contributed by the community.
 
 Title | Description | Type | Author | Tags |
 |---|---|---|---|--|
+| [Anakin](https://github.com/Anakin-Inc/budibase-anakin) | Scrape, crawl, search and automate websites via the Anakin web data API | Datasource | [Anakin](https://github.com/Anakin-Inc) | `scraping` `search` `api` |
 | [Appwrite](https://github.com/melohagan/budibase-datasource-appwrite) | A collection of Appwrite custom datasources | Datasource | [Mel O'Hagan](https://github.com/melohagan/) | `Appwrite` `BaaS` |
 | [Big Query](https://github.com/marblekirby/budibase-big-query-plugin) | Connector for Google Big Query Datawarehouse | Datasource | [Daniel Loudon](https://github.com/marblekirby) | `GCP` |
 | [Bitbucket Cloud Pull Requests](https://github.com/darrenmoura/budibase-datasource-bitbucket-cloud-pull-requests) | Connector for Bitbucket Cloud Pull Requests API | Datasource | [Darren Moura McGarry](https://github.com/darrenmoura/) | `Bitbucket` `Atlassian` `PRs` |
